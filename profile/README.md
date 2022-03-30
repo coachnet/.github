@@ -8,6 +8,6 @@ I'm [Fabiano Couto](https://github.com/fabianocouto), I'm a developer, and the i
 
 If you are curious and want to know more about the project, for those who know how to join forces and get it off the ground by building an MVP, get in touch.
 
-I need encouragement and look forward to a [contact](https://github.com/coachnet/about/issues).
+I need encouragement and look forward to a [contact](https://github.com/coachnet/.github/issues).
 
 Thanks in advance!
