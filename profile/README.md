@@ -11,3 +11,7 @@ If you are curious and want to know more about the project, for those who know h
 I need encouragement and look forward to a [contact](https://github.com/coachnet/.github/issues).
 
 Thanks in advance!
+
+---
+
+Site: http://www.coachnet.com.br/
